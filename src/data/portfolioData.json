@@ -59,7 +59,22 @@
       "description": "Promoting TANSSI Network in the Vietnamese market.",
       "technologies": ["Twitter", "Telegram", "Discord"],
       "liveUrl": ""
-    }],"post": []
+    }],"post": [
+
+      {
+      "id": 1,
+      "name": "GenLayer",
+      "emoji": "https://pbs.twimg.com/profile_images/2011221321754034176/AaBmFyfD_400x400.jpg",
+      "projectType": "AI Agent",
+      "typeCategory": "AI",
+      "badgeVariant": "emerald",
+      "role": "Ambassador",
+      "period": "01/2025 - Present",
+      "url": [
+       "https://x.com/TOP041091/status/2059549769140416969?s=20"
+      ]
+    }
+    ]
     
   
 }
