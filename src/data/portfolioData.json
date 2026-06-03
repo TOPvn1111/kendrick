@@ -1,0 +1,65 @@
+{
+  "personalInfo": {
+    "name": "Kendrick",
+    "nameShort": "Kendrick",
+    "title": "Crypto Ambassador & Community Builder",
+    "bio": [
+      "With over 2 years in the Web3 ecosystem, I have built and grown dozens of crypto communities in Vietnam — from pioneering DeFi projects to groundbreaking Layer-2 solutions. My passion lies in connecting Vietnamese users with high-quality blockchain projects and promoting the adoption of decentralized finance.",
+      "As a pioneer in organizing AMAs, Twitter Spaces, and offline events in Ho Chi Minh City , I am proud to have introduced thousands of Vietnamese people to Web3 in a safe and effective way. I am not just an ambassador — I am a community architect."
+    ],
+    "avatar": "",
+    "emoji": "🌐",
+    "location": "Ha Noi, Vietnam"
+  },
+  "title":{
+    "communityLink":"Join the Web3 Vietnam community — a place to share knowledge, opportunities, and connections.",
+    "featuredCarousel":"These are some of the key projects I have represented within the Web3 ecosystem."
+  },
+  "socials": {
+    "x":        { "username": "@TOP041091",     "url": "https://x.com/TOP041091",           "icon": "https://freepnglogo.com/images/all_img/logo-x-modern-2023-7cbd.png",  "color": "#e2e8f0", "label": "Twitter / X" },
+    "telegram": { "username": "@dung91hoa",          "url": "https://t.me/dung91hoa",        "icon": "https://cdn.freebiesupply.com/logos/large/2x/telegram-logo-png-transparent.png",  "color": "#2AABEE", "label": "Telegram" },
+    "discord":  { "username": "kendrickvan",   "url": "https://t.me/dung91hoa",       "icon": "https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png",  "color": "#5865F2", "label": "Discord" },
+    "linkedin": { "username": "Kendricvan VN",     "url": "https://www.linkedin.com/in/top-vn-4515aa209/",               "icon": "https://cdn.freebiesupply.com/logos/large/2x/linkedin-logo-png-transparent.png", "color": "#0A66C2", "label": "LinkedIn" }
+  },
+  "stats": [
+    { "key": "followers",   "value": 12000, "display": "12000+", "label": "Followers & Members", "icon": "👥" },
+    { "key": "projects",    "value": 5,     "display": "5+",    "label": "Projects Joined",      "icon": "🚀" },
+    { "key": "communities", "value": 2,     "display": "2+",    "label": "Communities Built",    "icon": "🌐" },
+    { "key": "events",      "value": 10,    "display": "10+",   "label": "Events Hosted",        "icon": "🎤" }
+  ],
+  "skills": [
+    { "icon": "🏗️", "name": "Community Management", "desc": "Discord / Telegram / X" },
+    { "icon": "✍️", "name": "Content Creation",      "desc": "Threads, Blogs, Edu Series" },
+    { "icon": "🎤", "name": "Event Hosting",          "desc": "AMA, Twitter Space, Meetup" },
+    { "icon": "🌏", "name": "Translation",            "desc": "EN ↔ VI technical documents" },
+    { "icon": "📊", "name": "Growth Strategy",        "desc": "KOL collab, viral campaigns" },
+    { "icon": "🔗", "name": "Web3 Ecosystem",         "desc": "DeFi, NFT, GameFi, L2" },
+    { "icon": "🎨", "name": "Branding & Design",      "desc": "Canva, Figma, basic" },
+    { "icon": "📣", "name": "Marketing Campaigns",    "desc": "Launch, Airdrop, Listing" }
+  ],
+  "timeline": [
+    { "date": "2023",          "title": "Began My Web3 Journey",     "desc": "Discovered Bitcoin and Ethereum, and joined the first Vietnamese crypto communities on Telegram." },
+    { "date": "2024",          "title": "First Ambassador Role",     "desc": "Became an ambassador for my first AI project — Bytenova AI Vietnam Community. Organized my first AMA with 200+ participants." },
+    { "date": "2025",          "title": "Content Creator",     "desc": "Grew my personal Twitter to 10k followers." },
+    { "date": "2025 - Present","title": "Ambassador",    "desc": "Serving as ambassador for 5 projects simultaneously, specializing in AI Agent and infrastructure. Co-organized Vietnam AMA. Lead Angels VietNam of CoinW." }
+      ],
+  "projects": [    {
+      "id": 4,
+      "name": "TANSSI Network",
+      "emoji": "https://pbs.twimg.com/profile_images/1874826799311413248/rvV9cqF3_400x400.jpg",
+      "projectType": "Blockchain Network",
+      "typeCategory": "Infrastructure",
+      "badgeVariant": "cyan",
+      "role": "Ambassador",
+      "period": "02/2025 - 12/2025",
+      "activities": [
+        "Created promotional posts and content on X, Telegram, and Discord",
+        "Increased project visibility within the Vietnamese crypto community"
+      ],
+      "description": "Promoting TANSSI Network in the Vietnamese market.",
+      "technologies": ["Twitter", "Telegram", "Discord"],
+      "liveUrl": ""
+    }],"post": []
+    
+  
+}
